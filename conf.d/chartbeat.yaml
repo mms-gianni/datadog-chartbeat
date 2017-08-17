@@ -1,0 +1,9 @@
+init_config:
+- apikey: "YOURKEY"
+- host: "yoursite.ch"
+
+instances:
+- site: "Total"
+  path: "total"
+- site: "Home"
+  path: "yoursite.ch/"
